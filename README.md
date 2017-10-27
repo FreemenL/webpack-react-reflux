@@ -16,6 +16,6 @@ npm start
 
 #该配置分别通过3中不同的当时运行项目    具体配置可看备注#
 
-# webpack.dev.js 为开发环境配置#
+ webpack.dev.js 为开发环境配置
 
 #webpack.prod.js 为生产环境配置  config目录下为通用的配置#
