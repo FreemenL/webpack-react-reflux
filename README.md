@@ -7,9 +7,11 @@
   react-router@2.3.0
   reflux@6.4.1
 
-#拉下来运行一下命令#
+#拉下来运行以下命令#
 
 npm install --save
+
+
 npm start 
 
 #该配置分别通过3中不同的当时运行项目    具体配置可看备注#
