@@ -1,5 +1,5 @@
 # webpack-react-reflux
-自己搭的一套基于webpack+react+reflux的脚手架
+基于webpack+react+reflux的脚手架
 
 版本号：
   webpack@3.8.1
